@@ -1,6 +1,6 @@
 # Python Data Structures and Algorithms
 
-No non-sense solutions to common Data Structure and Algorithm interview questions in Python.
+No non-sense solutions to common Data Structure and Algorithm interview questions in Python. Follows a consistent approach throughout problems.
 
 ## Objective
 
@@ -29,7 +29,7 @@ Contains all data structure questions categorised into sub-directories like stac
 
 ### Algorithms
 
-This directory contains various types of algorithm questions like Dynamic Programming, Sorting, Greedy, etc. The current structure of this directory is like -
+This directory contains various types of algorithm questions like Dynamic Programming, Sorting, Greedy, etc. The current structure of this directory is as follows:
 
 1. [Dynamic Programming](algorithms/dynamic_programming)
 2. [Graphs](algorithms/graph)
@@ -69,4 +69,4 @@ To follow the guidelines, refer to [Contributing.md](CONTRIBUTING.md)
 
 ## License
 
-[MIT](LICENSE)
+[MIT License](LICENSE)
